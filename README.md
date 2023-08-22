@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Subhan Sohail</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Blog Web-App]([http://enchanting-flan-c426ca.netlify.app/](https://blogspotblog.netlify.app/))
+- 🔭 I’m currently working on [Blog Web-App](https://blogspotblog.netlify.app/)
 
 - 🌱 I’m currently learning **Back-end,React.js etc..**
 
